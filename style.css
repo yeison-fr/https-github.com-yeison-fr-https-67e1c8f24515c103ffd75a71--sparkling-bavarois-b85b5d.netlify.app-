@@ -1,0 +1,161 @@
+
+
+
+.img{
+    font-size: 70px;
+    padding:  10px 10px;
+    line-height: 80px;
+    border-radius: 100px;
+}
+.header{
+    background-color: #ffffff;
+    width:  px;
+    text-align: center;
+
+    
+}
+
+
+
+.nav-link{
+    
+    margin-right: 40px;
+    text-decoration: none;
+
+}
+.nav-menu-item{
+    text-align: center;
+    padding: 20px 20px;
+    margin:10x;
+    text-transform: uppercase;
+    list-style: none;
+
+}
+.container-2{
+    background-color: rgb(50, 103, 236);
+    color:#f7f4f4;
+    
+    align-items: center;
+    padding: 10px 100px;
+    border-radius: 10px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    
+}
+.nav-menu-link{
+    padding: auto;
+    border-radius: 3 px;
+
+}
+.nav-menu-link:hover{
+    background-color: #7c8fe4;
+    transition: 0,.5s;
+    
+}
+.button-1{
+    background-color: #2a4ff0;
+    color: #f2f1f6;
+    align-items: center;
+    padding: 10px 60px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+    
+}
+.button-2{
+    background-color: #2a4ff0;
+    color: #f8f8fa;
+    align-items: center;
+    padding: 10px 36px;
+    flex-direction: column;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+    
+}
+.button-3{
+    background-color: #2a4ff0;
+    color: #f2f1f6;
+    align-items: center;
+    padding: 10px 70px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+    
+}
+.button-4{
+    background-color: #2a4ff0;
+    color: #f2f1f6;
+    align-items: center;
+    padding: 10px 65px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+    
+}
+.button-5{
+    background-color: #2a4ff0;
+    color: #f2f1f6;
+    align-items: center;
+    padding: 10px 79px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+    
+}
+.button-6{
+    background-color: #2a4ff0;
+    color: #f2f1f6;
+    align-items: center;
+    padding: 5px 9px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    font-size: 12px;
+    margin: 10px;
+    text-transform: uppercase;
+    font-weight: bold;}
+
+    
+.button-7{  
+    background-color: #2a4ff0;
+    color: #f2f1f6;
+    align-items: center;
+    padding: 5px 9px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    font-size: 12px;
+    margin: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+        
+    .contenedor-3{
+        text-align:justify;
+        display: flex;
+        justify-content: center;
+        height: 90vh;
+        background-color: #fffefe;
+    }
